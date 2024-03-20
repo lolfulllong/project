@@ -1,0 +1,16 @@
+=================
+vvvvvvvvvvvvvvvvv
+v+...+......+..+v
+v..hh...hh......v
+v.....+....+.hhhv
+vhh..hhh..hhhhhhv
+vhh.......hh....v
+vhhhhhh.hhhh....v
+v...............v
+v.hh..h..hh.....v
+v...............v
+v......h...hh...v
+v.......g..hh...v
+v......vhv......v
+v......hfh......v
+vvvvvvvvvvvvvvvvv
